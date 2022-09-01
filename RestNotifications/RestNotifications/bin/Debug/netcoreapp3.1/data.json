@@ -1,0 +1,22 @@
+﻿[
+  {
+    "name": "Cambia el Foco",
+    "message": "Mira a lo lejos por un para de segundos.",
+    "image": "searching.png"
+  },
+  {
+    "name": "Estiramiento",
+    "message": "Tomate un par de segundos para estirarte.",
+    "image": "walking.png"
+  },
+  {
+    "name": "Estiramiento de columna",
+    "message": "Estira tu columna lo mas que puedas!",
+    "image": "yoga-pose.png"
+  },
+  {
+    "name": "Break de pantallas",
+    "message": "Deja de mirar pantallas por un par de segundos",
+    "image": "monitor.png"
+  }
+]
